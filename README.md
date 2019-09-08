@@ -1,2 +1,3 @@
 # Python
-Visit to learn python
+
+Getting started with Python, fundamentals of programming.
